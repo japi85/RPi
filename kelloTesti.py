@@ -93,3 +93,5 @@ while True:
     sense.low_light = True # Optional
     sense.set_pixels(clock_image)
     time.sleep(1)
+
+
