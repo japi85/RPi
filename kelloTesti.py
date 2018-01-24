@@ -1,3 +1,4 @@
+# original source SteveAmor: https://github.com/SteveAmor/Raspberry-Pi-Sense-Hat-Clock/blob/master/clock.py
 from sense_hat import SenseHat
 import time
 
