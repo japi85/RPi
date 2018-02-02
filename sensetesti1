@@ -11,8 +11,8 @@ while True:
     
     temp = round(temp, 2)
     msg = "temp = %s" % (temp)
-    print("paine ")
+    print("ilmanpaine ")
     print(paine)
     print("lampotila")
     print(temp)
-    sense.show_message(msg, text_colour=red, back_colour = black, scroll_speed = 0.05)
+    sense.show_message(msg, text_colour=red, back_colour = black, scroll_speed = 0.10)
